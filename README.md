@@ -1,6 +1,6 @@
 # Hello, I'm Chelsea 👋
 
-I'm an aspiring Computer Science & AI researcher/developer passionate about building **ethical, human-centered technology**. My interests include a mix of **Artificial Intelligence, Digital Wellness, and Data Ethics**—focusing on how technology can safely serve communities and empower human connection.
+I'm an aspiring Computer Science & AI researcher/developer passionate about building **ethical, human-centered technology**. My interests/work includes a mix of **Artificial Intelligence, Digital Wellness, and Data Ethics**—focusing on how technology can safely serve communities and empower human connection.
 
 ---
 
